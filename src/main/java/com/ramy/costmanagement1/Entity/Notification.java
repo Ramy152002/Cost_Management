@@ -1,5 +1,6 @@
 package com.ramy.costmanagement1.Entity;
 
+<<<<<<< HEAD
 import lombok.Getter;
 import lombok.Setter;
 
@@ -21,4 +22,7 @@ public class Notification {
  private LocalDateTime dueDate;
  
  
+=======
+public class Notification {
+>>>>>>> 16f8f091c26e1a0c687bdc9219ea995f07a628a2
 }
